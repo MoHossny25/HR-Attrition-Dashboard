@@ -36,7 +36,3 @@ The dashboard is divided into two main views:
 ## 📸 Preview
 <img width="967" height="542" alt="Screenshot 2025-12-19 052453" src="https://github.com/user-attachments/assets/8b9099df-f96d-4699-b85e-bdd6f950dad3" />
 <img width="968" height="542" alt="Screenshot 2025-12-19 052508" src="https://github.com/user-attachments/assets/6bee4b04-f5ea-4a96-972b-07d26af9ecac" />
-
-
----
-**Author:** [Your Name/MoHossny25]
